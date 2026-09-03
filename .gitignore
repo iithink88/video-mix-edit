@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 本地环境 / 密钥
+.env
+*.srt
+.DS_Store
+
+# 渲染产物
+output/
+*.mp4
+*.wav
